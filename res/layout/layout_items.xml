@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="5dp"
+    android:background="@color/lightGrey">
+
+    <TextView
+        android:id="@+id/rvTask"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Tasks"
+        android:gravity="center_vertical"/>
+
+    <TextView
+        android:id="@+id/rvUsers"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Tasks"
+        android:gravity="center_vertical"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true">
+        <Button
+            android:id="@+id/rvEdit"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:text="Edit"
+            android:textColor="#ffffff"
+            android:textAllCaps="false"
+            android:layout_marginRight="3dp"
+            android:background="@color/darkGrey"/>
+
+        <Button
+            android:id="@+id/rvDelete"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:text="Delete"
+            android:textAllCaps="false"
+            android:textColor="#ffffff"
+            android:background="@color/darkGrey"/>
+    </LinearLayout>
+
+</RelativeLayout>

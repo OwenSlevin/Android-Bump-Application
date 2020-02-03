@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5e77d4</color>
+    <color name="colorPrimaryDark">#5e77d4</color>
+    <color name="buttonClicked">#2ff50c</color>
+    <color name="buttonDefault">#737479</color>
+    <color name ="bumpBlue">#0095ff</color>
+    <color name ="veryLightGrey">#E1E8ED</color>
+    <color name ="twitterBlue">#1DA1F2</color>
+    <color name ="previousBumpButton">#3656C9</color>
+    <color name ="previousMainBackGround">#23272A</color>
+    <color name ="deliveroo">#00CDBC</color>
+    <color name ="fullPink">#e41c77</color>
+    <color name ="lightGrey">#AAB8C2</color>
+    <color name ="oldItemBackground">#4b5c68</color>
+    <color name ="darkGrey">#657786</color>
+    <color name ="pinkTriadic">#ff004d</color>
+    <color name ="yellowTriadic">#ffd900</color>
+    <color name ="orangeTetradic">#ff5900</color>
+    <color name ="purpleTetradic">#b300ff</color>
+    <color name ="bumpBlueDarker">#07c</color>
+    <color name ="bumpBlueDker">#07c</color>
+    <color name ="bumpBlueDrker">#07c</color>
+    <color name ="bpBlueDarker">#07c</color>
+
+
+    <!--    <color name="colorAccent">#009933</color> -->
+</resources>
